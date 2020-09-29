@@ -1,7 +1,12 @@
 # ML_pyTorch_tutorials
 Tensor(initialise,shape, reshaping etc)
-Linear Regression 
+
+Loss
+
+Linear Regression
+
 NN
+
 CNN
 
 Logistic Regression
