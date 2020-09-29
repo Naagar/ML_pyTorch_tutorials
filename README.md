@@ -1,5 +1,5 @@
 # ML_pyTorch_tutorials
-Tensor(initialise,shape, reshaping etc)
+Tensor(initialise,shape, reshaping etc) Basics and Advance 
 
 Loss
 
