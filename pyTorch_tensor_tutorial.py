@@ -19,6 +19,8 @@ my_tensor = torch.tensor([[2, 3, 4], [4, 5, 6]], dtype=float, device='cpu', requ
 # print(my_tensor.shape)
 # print(my_tensor.size())
 # print(my_tensor.requires_grad)
+# print(my_torch.layout) # how the data is stored in memory 
+
 
 
 # other common initilazation 
